@@ -4,4 +4,4 @@ VALUES
   (2, 'Title2', 'http://www.url.com', 'lorem ipsum', 0),
   (3, 'Title3', 'http://www.url.com', 'lorem ipsum', 0);
 
---    psql -U dunder_mifflin -d bookmarks -f ./seeds/seed.bookmarks.sql
+--    psql -U dunder_mifflin -d bookmarks -f ./seeds/seed.bookmarks-test.sql
